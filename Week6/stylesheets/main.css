@@ -1,0 +1,23 @@
+body {background-color: #1c54a7;
+color: #000000;
+font-family: arial;
+}
+
+#header {color: #ffffff;
+}
+
+#main {overflow: hidden;
+background-color: #c4b25e;
+}
+
+.photos {float: left;
+margin: 5px;
+}
+
+.photos img {width: 200px;
+}
+
+#footer {
+	color: #ffffff;
+	clear: both;
+}
